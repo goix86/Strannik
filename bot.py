@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 import google.generativeai as genai
-from ddgs import DDGS
+from duckduckgo_search import DDGS
 from flask import Flask
 
 load_dotenv()
