@@ -1,0 +1,9 @@
+python-telegram-bot==20.8
+google-genai
+google-generativeai==0.8.3
+duckduckgo-search==6.2.6
+python-dotenv==1.0.1
+Flask==3.0.3
+requests==2.32.3
+pytz==2024.1
+Pillow==10.4.0
